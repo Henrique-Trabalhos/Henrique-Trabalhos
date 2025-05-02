@@ -2,7 +2,7 @@
 
 Olá! Meu nome é **Henrique Augusto** e sou um entusiasta da tecnologia com grande curiosidade sobre o mundo digital e tudo o que a internet tem a oferecer. Tenho um interesse genuíno em aprender, explorar novas ferramentas e desenvolver soluções criativas.
 
-### 🎯 Áreas de Interesse 🎯
+## 🎯 Áreas de Interesse 🎯
 
 Tenho afinidade com temas ligados à tecnologia, cultura geek e inovação. Estou sempre em busca de novos conhecimentos, especialmente nas áreas de:
 
