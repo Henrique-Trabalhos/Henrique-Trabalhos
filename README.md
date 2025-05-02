@@ -1,4 +1,3 @@
-```markdown
 ## 👋 Sobre mim
 
 Olá! Meu nome é **Henrique Augusto** e sou um entusiasta da tecnologia com grande curiosidade sobre o mundo digital e tudo o que a internet tem a oferecer. Tenho um interesse genuíno em aprender, explorar novas ferramentas e desenvolver soluções criativas.
@@ -35,4 +34,3 @@ Fique à vontade para entrar em contato comigo por e-mail:
 - **Pronomes:** Ele/Dele  
 - **Status atual:** Em busca de oportunidades de estágio ou trabalho na área de tecnologia  
 - **Curiosidade:** Sou apaixonado por conteúdos geek, como tecnologia, jogos, filmes, séries, quadrinhos e tudo que envolve esse universo.
-```
