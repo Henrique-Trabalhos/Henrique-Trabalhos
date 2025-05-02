@@ -1,4 +1,4 @@
-**👋 Sobre mim 👋**
+# **👋 Sobre mim 👋**
 
 Olá! Meu nome é **Henrique Augusto** e sou um entusiasta da tecnologia com grande curiosidade sobre o mundo digital e tudo o que a internet tem a oferecer. Tenho um interesse genuíno em aprender, explorar novas ferramentas e desenvolver soluções criativas.
 
